@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "과외선생(가제)"
+title                    : "chinese medicine class"
 title_separator          : "-"
 name                     : &name "Suan&Jin"
-description              : &description "중국식 미용시술 교육"
+description              : &description "Class in china "
 url                      : "https://onnvit.github.io/academicpages/"
 baseurl                  : "" 
 repository               : "academicpages/academicpages.github.io"
