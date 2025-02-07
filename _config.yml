@@ -25,8 +25,8 @@ author:
   avatar           : "profile.png"
   name             : "정수안 원장"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "중국 환자가 원하는 시술과 상담 교육"
+  location         : "강남"
   employer         : "Red Brick University"
   uri              : # URL
   email            : "none@example.org" 
@@ -259,7 +259,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: publications_T
     values:
       layout: single
       author_profile: true
