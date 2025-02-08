@@ -7,15 +7,15 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 site_theme               : "default"
 title                    : "중국 의료미용 교육"
-title_separator          : "-"
+title_separator          : "|"Sample Page | 중국 의료미용 교육
 name                     : &name "정수안"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+description              : &description "중국 의료미용 교육, 중국 고객을 받는 "
+url                      : "https://onnvit.github.io" # the base hostname & protocol for your site e.g. https://[your GitHub username].github.io
+baseurl                  : "/jsaclass" # the subpath of your site, e.g. "/blog"
+repository               : "onnvit/jsaclass"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
